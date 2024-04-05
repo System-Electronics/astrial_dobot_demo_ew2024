@@ -1,0 +1,6 @@
+astarte-device-sdk==0.13.2
+fsmpy==2.1.0
+pyserial==3.5
+python-dotenv==1.0.1
+PyYAML==6.0.1
+

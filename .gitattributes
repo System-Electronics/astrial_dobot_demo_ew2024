@@ -1,0 +1,17 @@
+src/icons/ filter=lfs diff=lfs merge=lfs -text
+src/icons/arrow_up.png filter=lfs diff=lfs merge=lfs -text
+src/icons/grip_close_icon.png filter=lfs diff=lfs merge=lfs -text
+src/icons/grip_open_icon.png filter=lfs diff=lfs merge=lfs -text
+src/icons/arrow_down.png filter=lfs diff=lfs merge=lfs -text
+src/icons/* filter=lfs diff=lfs merge=lfs -text
+models/ filter=lfs diff=lfs merge=lfs -text
+models/hand_landmark_lite.tflite filter=lfs diff=lfs merge=lfs -text
+models/ultraface_slim_uint8_float32.tflite filter=lfs diff=lfs merge=lfs -text
+models/yoloface_int8.tflite filter=lfs diff=lfs merge=lfs -text
+models/hand_landmark_full.tflite filter=lfs diff=lfs merge=lfs -text
+models/hand_landmark_lite.hef filter=lfs diff=lfs merge=lfs -text
+src/icons/icon_face.png filter=lfs diff=lfs merge=lfs -text
+docs/MainBoard.jpg filter=lfs diff=lfs merge=lfs -text
+docs/Dobot-Magician-API-DescriptionV1.2.3.pdf filter=lfs diff=lfs merge=lfs -text
+docs/Dobot[[:space:]]Magician[[:space:]]V2[[:space:]]User[[:space:]]Guide[[:space:]](DobotLab-based)[[:space:]]V2.3.1.pdf filter=lfs diff=lfs merge=lfs -text
+docs/Dobot-Communication-Protocol-V1.1.5.pdf filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,16 @@
+""" Configuration file for the project. """
+
+device_configuration: 
+  video_device: /dev/video3
+  relay_device: /dev/ttyACM0
+  relay_baudrate: 9600
+  robotic_arm_device: /dev/ttyACM1
+image_configuration:
+  camera_resolution_w: 1280 #1280, 640
+  camera_resolution_h: 720 #720. 480
+  screen_resolution_w: 1920
+  screen_resolution_h: 1080
+  crop_square_factor_hand_detection: 0.8
+  crop_square_factor_gui: 0.70
+iot_platform_configuration:
+  use_kalpa_platform: False
